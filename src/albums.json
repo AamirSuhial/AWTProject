@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Adele",
+    "picture": "images/adele.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Ed Shreen",
+    "picture": "images/edshreen.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Kate Perry",
+    "picture": "images/katePerry.jpg",
+    "price": 2,
+    "genere": "pop",
+    "about": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Rihana",
+    "picture": "images/rihana.jpeg",
+    "price": 2,
+    "genere": "pop",
+    "about": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Tylor Swift",
+    "picture": "images/swift.png",
+    "price": 2,
+    "genere": "pop",
+    "about": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Ed Shreen",
+    "picture": "images/edshreen.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Adele",
+    "picture": "images/adele.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Kate Perry",
+    "picture": "images/katePerry.jpg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Tylor Swift",
+    "picture": "images/swift.png",
+    "price": 2,
+    "genere": "pop",
+    "about": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Adele",
+    "picture": "images/adele.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Kate Perry",
+    "picture": "images/katePerry.jpg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 11,
+    "name": "Rihana",
+    "picture": "images/rihana.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 12,
+    "name": "Ed Shereen",
+    "picture": "images/edshreen.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 13,
+    "name": "Tylor Swift",
+    "picture": "images/swift.png",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 14,
+    "name": "Rihana",
+    "picture": "images/rihana.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  },
+  {
+    "id": 15,
+    "name": "Adele",
+    "picture": "images/adele.jpeg",
+    "price": 3,
+    "genere": "pop",
+    "about": "Matheny, Utah"
+  }
+]
